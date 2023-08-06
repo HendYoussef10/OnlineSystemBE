@@ -1,0 +1,24 @@
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\bin\Debug\net7.0\Domain.Entities.deps.json
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\refint\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Entities\obj\Debug\net7.0\ref\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\bin\Debug\net7.0\Domain.Entities.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\refint\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Entities\obj\Debug\net7.0\ref\Domain.Entities.dll

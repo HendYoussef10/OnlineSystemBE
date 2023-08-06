@@ -1,0 +1,30 @@
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Infrastructure.ViewModel.deps.json
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\refint\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\ref\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Infrastructure.ViewModel.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\refint\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.ViewModel\obj\Debug\net7.0\ref\Infrastructure.ViewModel.dll

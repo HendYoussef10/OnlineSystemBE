@@ -1,0 +1,38 @@
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.Repository.deps.json
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.IRepository.dll
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.IRepository.pdb
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\refint\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\ref\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.Repository.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.IRepository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Persistence.IRepository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\refint\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\2 - Persistence\Persistence.Repository\obj\Debug\net7.0\ref\Persistence.Repository.dll

@@ -1,0 +1,24 @@
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\bin\Debug\net7.0\Infrastructure.Utilities.deps.json
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\bin\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\bin\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\refint\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\ref\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\bin\Debug\net7.0\Infrastructure.Utilities.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\bin\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\bin\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\refint\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Utilities\obj\Debug\net7.0\ref\Infrastructure.Utilities.dll

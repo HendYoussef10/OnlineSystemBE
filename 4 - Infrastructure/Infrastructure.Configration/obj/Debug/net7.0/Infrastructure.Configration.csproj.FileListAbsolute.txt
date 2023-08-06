@@ -1,0 +1,58 @@
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Configration.deps.json
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.IRepository.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Data.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.IRepository.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Data.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\refint\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\ref\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Configration.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.IRepository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Data.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.IRepository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Data.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\refint\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\Infrastructure.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\4 - Infrastructure\Infrastructure.Configration\obj\Debug\net7.0\ref\Infrastructure.Configration.dll

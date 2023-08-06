@@ -1,0 +1,238 @@
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\appsettings.Development.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\appsettings.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.exe
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.deps.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.runtimeconfig.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Antlr3.Runtime.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\AutoMapper.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Azure.Core.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Azure.Identity.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\FluentNHibernate.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Iesi.Collections.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\NHibernate.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Remotion.Linq.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Remotion.Linq.EagerFetching.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Persistence.IRepository.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Service.Data.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Persistence.IRepository.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Service.Data.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.OnlineShopSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.OnlineShopSystem.props
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShopSystem.props
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnlineShopSystem.props
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets.build.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\staticwebassets.development.json
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\scopedcss\bundle\OnlineShopSystem.styles.css
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\refint\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.pdb
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.genruntimeconfig.cache
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\obj\Debug\net7.0\ref\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Humanizer.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Hend's Git\OnlineShopSystem\OnlineShopSystem\bin\Debug\net7.0\System.CodeDom.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\appsettings.Development.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\appsettings.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.exe
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.runtimeconfig.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\OnlineShopSystem.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Antlr3.Runtime.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\AutoMapper.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Azure.Core.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Azure.Identity.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\FluentNHibernate.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Humanizer.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Iesi.Collections.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\NHibernate.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Remotion.Linq.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Remotion.Linq.EagerFetching.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.CodeDom.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Utilities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Persistence.IRepository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Persistence.Repository.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Service.Data.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.Utilities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Persistence.IRepository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Persistence.Repository.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\bin\Debug\net7.0\Service.Data.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.OnlineShopSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.OnlineShopSystem.props
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShopSystem.props
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnlineShopSystem.props
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets.build.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\staticwebassets.development.json
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\scopedcss\bundle\OnlineShopSystem.styles.css
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\refint\OnlineShopSystem.dll
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\OnlineShopSystem.genruntimeconfig.cache
+F:\Hend's Git\OnlineShopSystem - Copy\OnlineShopSystem\obj\Debug\net7.0\ref\OnlineShopSystem.dll

@@ -1,0 +1,34 @@
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.deps.json
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.runtimeconfig.json
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\refint\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.genruntimeconfig.cache
+F:\Hend's Git\OnlineShopSystem\1 - Domain\Domain.Configration\obj\Debug\net7.0\ref\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.runtimeconfig.json
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\refint\Domain.Configration.dll
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\Domain.Configration.genruntimeconfig.cache
+F:\Hend's Git\OnlineShopSystem - Copy\1 - Domain\Domain.Configration\obj\Debug\net7.0\ref\Domain.Configration.dll

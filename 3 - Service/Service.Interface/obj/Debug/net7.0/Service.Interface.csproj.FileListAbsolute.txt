@@ -1,0 +1,34 @@
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Service.Interface.deps.json
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\refint\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem\3 - Service\Service.Interface\obj\Debug\net7.0\ref\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Service.Interface.deps.json
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Domain.Entities.dll
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Infrastructure.ViewModel.dll
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Infrastructure.ViewModel.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\bin\Debug\net7.0\Domain.Entities.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.csproj.AssemblyReference.cache
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.AssemblyInfoInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.AssemblyInfo.cs
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.csproj.CoreCompileInputs.cache
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.csproj.CopyComplete
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\refint\Service.Interface.dll
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\Service.Interface.pdb
+F:\Hend's Git\OnlineShopSystem - Copy\3 - Service\Service.Interface\obj\Debug\net7.0\ref\Service.Interface.dll

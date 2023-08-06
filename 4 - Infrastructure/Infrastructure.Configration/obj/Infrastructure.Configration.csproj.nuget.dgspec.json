@@ -1,0 +1,711 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Configration\\Infrastructure.Configration.csproj": {}
+  },
+  "projects": {
+    "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj",
+        "projectName": "Domain.Configration",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj",
+        "projectName": "Domain.Entities",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj",
+        "projectName": "Persistence.IRepository",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.Repository\\Persistence.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.Repository\\Persistence.Repository.csproj",
+        "projectName": "Persistence.Repository",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.Repository\\Persistence.Repository.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Data\\Service.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Data\\Service.Data.csproj",
+        "projectName": "Service.Data",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Data\\Service.Data.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Configration\\Domain.Configration.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj",
+        "projectName": "Service.Interface",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Configration\\Infrastructure.Configration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Configration\\Infrastructure.Configration.csproj",
+        "projectName": "Infrastructure.Configration",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Configration\\Infrastructure.Configration.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Configration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.IRepository\\Persistence.IRepository.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.Repository\\Persistence.Repository.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\2 - Persistence\\Persistence.Repository\\Persistence.Repository.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Data\\Service.Data.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Data\\Service.Data.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\3 - Service\\Service.Interface\\Service.Interface.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj"
+              },
+              "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj",
+        "projectName": "Infrastructure.Utilities",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\Infrastructure.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj",
+        "projectName": "Infrastructure.ViewModel",
+        "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\Infrastructure.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\Hend's Git\\OnlineShopSystem\\4 - Infrastructure\\Infrastructure.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj": {
+                "projectPath": "F:\\Hend's Git\\OnlineShopSystem\\1 - Domain\\Domain.Entities\\Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
