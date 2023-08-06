@@ -95,6 +95,7 @@ namespace Service.Data
             return tokenHandler.WriteToken(securityToken);
         }
 
+
         private string GenerateToken(int size = 32)
         {
             var randomNumber = new byte[size];
