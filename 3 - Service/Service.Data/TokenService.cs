@@ -96,6 +96,7 @@ namespace Service.Data
         }
 
 
+
         private string GenerateToken(int size = 32)
         {
             var randomNumber = new byte[size];
